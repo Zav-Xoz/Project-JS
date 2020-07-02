@@ -1,5 +1,12 @@
-body{background-color:khaki}.block{background-color:red;height:200px;width:400px;margin:0 auto}.block h1{color:#000000;text-align:center}
-
 body{
     background-color: rgb(117, 109, 31);
 }
+.block{
+    background-color:red;
+    height:200px;width:400px;
+    margin:0 auto;
+}
+.block h1{
+    color:#000000;text-align:center;
+}
+
